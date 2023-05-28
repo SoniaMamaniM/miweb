@@ -1,1 +1,2 @@
 Hola a todos, es el archivo 2.
+Ahora esta en commit.
